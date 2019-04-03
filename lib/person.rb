@@ -1,1 +1,2 @@
-# your code goes here
+require 'pry'
+require_relative "new_person"
